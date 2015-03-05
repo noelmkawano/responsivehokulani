@@ -1,0 +1,62 @@
+body {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  list-style-type: none;
+}
+
+img {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar-inverse {
+  color: yellow;
+  background-color: dodgerblue;
+  border-color: dodgerblue;
+}
+
+.Pride {
+  background-image: url('http://lilinote.k12.hi.us/SCHOOLS/D1/Hokulani/HokulaniHome.nsf/2c5e41f84b643c0a852564bc004a12ae/6377c9b87eace7600a256ad500819366/Body/8.EA?OpenElement&FieldElemFormat=jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-size: 16px;
+  color: yellow;
+}
+
+h3 {
+  font-size: 14px;
+  margin-bottom: 0px;
+
+}
+
+.well {
+  background-color: dodgerblue;
+  border-color: dodgerblue;
+}
+ul {
+  list-style-type: none;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: yellow;
+}
+
+a {
+  color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.banner {
+  background-image: url('https://lilinote.k12.hi.us/SCHOOLS/D1/Hokulani/HokulaniHome.nsf/2c5e41f84b643c0a852564bc004a12ae/6377c9b87eace7600a256ad500819366/Body/0.4B0C?OpenElement&FieldElemFormat=jpg');
+  background-size: cover;
+  height: 200px;
+}
